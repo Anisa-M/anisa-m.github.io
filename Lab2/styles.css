@@ -45,11 +45,13 @@ order: 2;
 /* Flexbox Part 3 */
 
 #flex-section3 .box {
-display: flex;
+
+
 }
 
 #flex-section3 .tags ul {
-
+	list-style-type: none;
+	justify-content: space-around;
 }
 
 /* end Flexbox Part 3 */
