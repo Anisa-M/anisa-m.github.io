@@ -80,11 +80,11 @@ order: 2;
 /* Grid Part 2 */
 
 #grid-section2 .gridboxblue {
-
+display: grid;
 }
 
 #grid-section2 .gridboxred {
-
+display: grid;
 }
 
 /* end Grid Part 2 */
