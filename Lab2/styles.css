@@ -3,9 +3,9 @@
 #flex-section1 ul {
 	display: flex;
 	list-style-type: none;
+	justify-content: space-between;
+	justify-content: space-around;
 	justify-content: space-evenly;
-	justify-content: flex-start;
-	justify-content: flex-end;
 }
 
 /* end Flexbox Part 1 */
