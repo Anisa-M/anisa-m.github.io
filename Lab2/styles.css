@@ -50,6 +50,7 @@ order: 2;
 }
 
 #flex-section3 .tags ul {
+	display: inline-block;
 	list-style-type: none;
 	justify-content: space-around;
 	text-align: center;
