@@ -68,6 +68,7 @@ order: 2;
 
 #grid-section1 .grid {
 	display: grid;
+	gap: 20px;
 	grid-auto-rows: 100px;
 	grid-template-columns: repeat(4, 1fr);
 	justify-content: space-evenly;
