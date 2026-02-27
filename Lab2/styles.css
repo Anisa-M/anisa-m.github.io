@@ -107,6 +107,7 @@ order: 2;
 
 #grid-section3 .box1 {
 	order: 1;
+	grid-column: span 2;
 }
 
 #grid-section3 .box2 {
@@ -119,6 +120,7 @@ order: 2;
 
 #grid-section3 .box4 {
 	order: 4;
+	grid-column: span 2;
 }
 
 /* end Grid Part 3 */
