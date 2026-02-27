@@ -103,6 +103,7 @@ order: 2;
 	display: grid;
 	grid-template-columns: 2fr 1fr;
 	grid-template-rows: 100px 300px 100px;
+	gap: 10px;
 }
 
 #grid-section3 .box1 {
