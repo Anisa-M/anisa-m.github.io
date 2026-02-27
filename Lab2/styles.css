@@ -7,8 +7,6 @@
 	justify-content: space-evenly;
 	justify-content: space-between;
 	justify-content: space-around;
-/*	justify-content: space-evenly;
-	justify-content: space-around; */
 }
 
 /* end Flexbox Part 1 */
@@ -17,7 +15,7 @@
 /* Flexbox Part 2 */
 
 #flex-section2 ul {
-
+display: flex;
 }
 
 #flex-section2 li {
