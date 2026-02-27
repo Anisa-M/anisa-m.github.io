@@ -135,6 +135,7 @@ order: 2;
 	color: #000;
 	padding: 20px;
 	text-decoration: none;
+	transition: all 3s ease-in-out;	
 
 }
 
