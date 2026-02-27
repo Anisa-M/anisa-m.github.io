@@ -71,6 +71,7 @@ order: 2;
 	gap: 20px;
 	grid-auto-rows: 100px;
 	justify-content: center;
+	justify-content: space-evenly;
 	align-items: center;
 }
 
