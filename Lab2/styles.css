@@ -141,7 +141,7 @@ order: 2;
 #transition-section .box a:hover {
 	background-color: #cc0000;
 	color: #fff;
-	transition-duration: all 0.5s;
+	transition: all 0.5s;
 
 
 }
