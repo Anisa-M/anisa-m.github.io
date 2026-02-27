@@ -5,6 +5,7 @@
 	list-style-type: none;
 	gap: 15px;
 	justify-content: space-evenly;
+	justify-content: space-between;
 /*	justify-content: space-evenly;
 	justify-content: space-around; */
 }
