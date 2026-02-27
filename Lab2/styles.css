@@ -54,7 +54,7 @@ order: 2;
 	list-style-type: none;
 	justify-content: space-around;
 	text-align: center;
-	flex-shrink: 3;
+	flex: 1 1 auto;
 }
 
 /* end Flexbox Part 3 */
