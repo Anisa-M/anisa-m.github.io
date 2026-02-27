@@ -45,7 +45,6 @@ order: 2;
 /* Flexbox Part 3 */
 
 #flex-section3 .box {
-	display: flex;
 	justify-content: center;
 }
 
