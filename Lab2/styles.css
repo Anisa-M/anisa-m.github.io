@@ -3,7 +3,6 @@
 #flex-section1 ul {
 	display: inline-flex;
 	list-style-type: none;
-	justify-content: center;
 	justify-content: space-between;
 	justify-content: space-evenly;
 }
