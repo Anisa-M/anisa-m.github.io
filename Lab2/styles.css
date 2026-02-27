@@ -47,6 +47,7 @@ order: 2;
 #flex-section3 .box {
 	display: flex;
 	justify-content: center;
+	align-items: flex-start;
 }
 
 #flex-section3 .tags ul {
