@@ -142,7 +142,8 @@ order: 2;
 #transition-section .box a:hover {
 	background-color: #cc0000;
 	color: #fff;
-	transition: all 0.5s;
+	transition-duration: all 0.5s;
+	transition-timing-function: 3s ease-out;
 
 
 }
