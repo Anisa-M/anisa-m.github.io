@@ -4,6 +4,8 @@
 	display: flex;
 	list-style-type: none;
 	justify-content: space-evenly;
+	justify-content: flex-start;
+	justify-content: flex-end;
 }
 
 /* end Flexbox Part 1 */
