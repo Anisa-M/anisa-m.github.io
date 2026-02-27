@@ -45,11 +45,12 @@ order: 2;
 /* Flexbox Part 3 */
 
 #flex-section3 .box {
+	display: flex;
 	justify-content: center;
 }
 
 #flex-section3 .tags ul {
-	display: inline-block;
+	display: flex;
 	list-style-type: none;
 	justify-content: space-around;
 	text-align: center;
