@@ -54,7 +54,6 @@ order: 2;
 	list-style-type: none;
 	justify-content: space-around;
 	text-align: center;
-	flex-shrink: 1;
 	margin: 0;
 	padding: 0;
 }
