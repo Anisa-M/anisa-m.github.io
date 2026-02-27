@@ -100,7 +100,9 @@ order: 2;
 /* Grid Part 3 */
 
 #grid-section3 .grid {
-
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	grid-template-rows: 100px 300px 100px;
 }
 
 #grid-section3 .box1 {
