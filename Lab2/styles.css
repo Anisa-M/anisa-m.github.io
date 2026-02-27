@@ -5,6 +5,7 @@
 	list-style-type: none;
 	justify-content: space-between;
 	justify-content: space-evenly;
+	gap: 20px;
 }
 
 /* end Flexbox Part 1 */
