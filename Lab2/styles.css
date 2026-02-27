@@ -9,6 +9,7 @@
 	justify-content: space-evenly;
 	justify-content: space-between;
 	justify-content: space-around;
+	align-items: center;
 }
 
 /* end Flexbox Part 1 */
