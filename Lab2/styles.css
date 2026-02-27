@@ -52,6 +52,7 @@ order: 2;
 #flex-section3 .tags ul {
 	list-style-type: none;
 	justify-content: space-around;
+	flex: 1;
 }
 
 /* end Flexbox Part 3 */
