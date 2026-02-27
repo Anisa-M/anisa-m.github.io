@@ -45,6 +45,7 @@ order: 2;
 /* Flexbox Part 3 */
 
 #flex-section3 .box {
+	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 }
@@ -61,7 +62,9 @@ order: 2;
 /* Grid Part 1 */
 
 #grid-section1 .grid {
-
+	display: grid;
+	gap: 20px;
+	grid-auto-rows: 100px;
 }
 
 /* end Grid Part 1 */
