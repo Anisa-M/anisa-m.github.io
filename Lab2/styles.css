@@ -70,6 +70,8 @@ order: 2;
 	display: grid;
 	gap: 20px;
 	grid-auto-rows: 100px;
+	justify-content: center;
+	align-items: center;
 }
 
 /* end Grid Part 1 */
