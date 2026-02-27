@@ -52,7 +52,7 @@ order: 2;
 #flex-section3 .tags ul {
 	display: flex;
 	list-style-type: none;
-	justify-content: space-around;
+	justify-content: left;
 	text-align: center;
 	margin: 0;
 	padding: 0;
