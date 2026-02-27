@@ -45,14 +45,12 @@ order: 2;
 /* Flexbox Part 3 */
 
 #flex-section3 .box {
-
-
+	display: grid;
 }
 
 #flex-section3 .tags ul {
 	list-style-type: none;
 	justify-content: space-around;
-	flex: 1;
 	flex-wrap: wrap;
 }
 
